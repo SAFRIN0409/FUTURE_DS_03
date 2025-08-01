@@ -32,7 +32,8 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn
 5. **Insights & Interpretation** – Identifying strengths and weaknesses in student responses 
 
 ## Sample Dashboard
-"C:\Users\Safrin\Pictures\Screenshots\Screenshot 2025-08-01 162012.png"
+<img width="1546" height="868" alt="image" src="https://github.com/user-attachments/assets/b911e980-2667-41e9-b52c-2db99cf49aaf" />
+
 
 
 ## 📈 Key Results
